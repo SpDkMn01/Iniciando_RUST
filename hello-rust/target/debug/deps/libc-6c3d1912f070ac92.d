@@ -1,0 +1,11 @@
+C:\Users\pedrodiaz\Desktop\Iniciando_RUST\hello-rust\target\debug\deps\libc-6c3d1912f070ac92.rmeta: C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\lib.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\macros.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\fixed_width_ints.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\mod.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\msvc.rs
+
+C:\Users\pedrodiaz\Desktop\Iniciando_RUST\hello-rust\target\debug\deps\liblibc-6c3d1912f070ac92.rlib: C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\lib.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\macros.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\fixed_width_ints.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\mod.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\msvc.rs
+
+C:\Users\pedrodiaz\Desktop\Iniciando_RUST\hello-rust\target\debug\deps\libc-6c3d1912f070ac92.d: C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\lib.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\macros.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\fixed_width_ints.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\mod.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\msvc.rs
+
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\lib.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\macros.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\fixed_width_ints.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\mod.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.71\src\windows\msvc.rs:

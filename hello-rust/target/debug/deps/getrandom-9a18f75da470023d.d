@@ -1,0 +1,11 @@
+C:\Users\pedrodiaz\Desktop\Iniciando_RUST\hello-rust\target\debug\deps\getrandom-9a18f75da470023d.rmeta: C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\lib.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\util.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error_impls.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\windows.rs
+
+C:\Users\pedrodiaz\Desktop\Iniciando_RUST\hello-rust\target\debug\deps\libgetrandom-9a18f75da470023d.rlib: C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\lib.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\util.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error_impls.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\windows.rs
+
+C:\Users\pedrodiaz\Desktop\Iniciando_RUST\hello-rust\target\debug\deps\getrandom-9a18f75da470023d.d: C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\lib.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\util.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error_impls.rs C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\windows.rs
+
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\lib.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\util.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\error_impls.rs:
+C:\Users\pedrodiaz\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.1.14\src\windows.rs:
